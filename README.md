@@ -3,3 +3,6 @@ Este es un repositorio destinado para el desarrollo de la solución al desafío 
 
 ## Tablero en Trello
 Para ver el tablero de Trello haz clic [aquí](https://trello.com/invite/b/6a67f2e566eb2900a84d0fb8/ATTI51705503f9cbb357b2e33d0ff6b6c7ec61ACC20E/tablerodesafio).
+
+## Video
+Para ver el video donde se explica la solución del desafío haz clic [aquí](https://upbeduco-my.sharepoint.com/:v:/g/personal/giovanni_romana_upb_edu_co/IQAN9ZYBvQGNQ4as-w4i3w0MAdUPyHPrKHlxUId9dACUv2g?e=07oZkw)
